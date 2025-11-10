@@ -121,7 +121,5 @@ Custom enterprise solutions and API integrations are available upon request.
 - 📧 Automated Email Delivery of Reports  
 - 🏫 Multi-School Admin Panel  
 
----
 
-## 🧾 License
 
